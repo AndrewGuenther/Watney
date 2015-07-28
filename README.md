@@ -1,7 +1,9 @@
 # Watney
 An attempt to replicate the rover hack described in Andy Weir's *The Martian*
 
-# *The Martian*: TL;DR (spoilers through Chapter 12)
+# *The Martian*: TL;DR
+**WARNING contains spoilers through Chapter 12!**
+
 Mark Watney, presumed dead, is left behind by his fellow astronauts alone on
 Mars. Injured, but alive, he returns to the crew's 92 sq. ft. base, known as
 the *Hab*. Using his engineering know-how, he manages to survive for the next
